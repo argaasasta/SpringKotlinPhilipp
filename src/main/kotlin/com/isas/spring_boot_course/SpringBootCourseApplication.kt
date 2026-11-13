@@ -1,11 +1,11 @@
-package com.isas.sprint_boot_course
+package com.isas.spring_boot_course
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class SprintBootCourseApplication
+class SpringBootCourseApplication
 
 fun main(args: Array<String>) {
-	runApplication<SprintBootCourseApplication>(*args)
+	runApplication<SpringBootCourseApplication>(*args)
 }

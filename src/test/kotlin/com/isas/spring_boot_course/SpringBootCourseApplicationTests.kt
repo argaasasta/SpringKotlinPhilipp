@@ -1,10 +1,10 @@
-package com.isas.sprint_boot_course
+package com.isas.spring_boot_course
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest
-class SprintBootCourseApplicationTests {
+class SpringBootCourseApplicationTests {
 
 	@Test
 	fun contextLoads() {
